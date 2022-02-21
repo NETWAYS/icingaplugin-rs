@@ -1,0 +1,15 @@
+[package]
+name = "icingaplugin-rs"
+version = "0.0.1"
+edition = "2018"
+license = "GPL-2.0-or-later"
+description = "A library designed for easier, standardized creation of check-plugins for Icinga2 and the likes."
+homepage = "https://github.com/NETWAYS/rust-check"
+repository = "https://github.com/NETWAYS/rust-check"
+readme = "README.md"
+keywords = [ "monitoring", "check", "plugin", "check_plugin", "icinga2", "nagios"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
