@@ -1,10 +1,12 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/NETWAYS/icingaplugin-rs?label=version)](https://github.com/NETWAYS/icingaplugin-rs/releases)
-![GitHub](https://img.shields.io/github/license/NETWAYS/vspheredb-data-check?color=green)
+![GitHub](https://img.shields.io/github/license/NETWAYS/icingaplugin-rs?color=green)
 
 # icingaplugin-rs
 
 icingaplugin-rs is a collection of utilities useful for writing standardized check plugins for Icinga2 and the likes written in Rust. 
 Right now, this library is a heavy work in progress and not published to [crates.io](https://crates.io). This may change in the future.
+
+**!!!Please note that this library will most likely experience major breaking changes in the foreseeable future!!!**
 
 ## Usage
 Add the repository as dependency in your project's `Cargo.toml`:
