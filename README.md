@@ -1,6 +1,5 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/NETWAYS/icingaplugin-rs?label=version)](https://github.com/NETWAYS/icingaplugin-rs/releases)
 ![GitHub](https://img.shields.io/github/license/NETWAYS/icingaplugin-rs)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/netways/icingaplugin-rs)
 # icingaplugin-rs
 
 icingaplugin-rs is a collection of utilities useful for writing standardized check plugins for Icinga2 and the likes written in Rust. 
